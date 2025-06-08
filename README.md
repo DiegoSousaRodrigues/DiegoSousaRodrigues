@@ -11,7 +11,6 @@ Sou um desenvolvedor Front-end com foco em criar interfaces modernas, acessívei
 ## 🚀 Projetos em destaque
 
 - [`auth`](https://github.com/DiegoSousaRodrigues/auth) — Sistema de autenticação moderna com TypeScript e Next.js
-- [`dashboard-app`](https://github.com/DiegoSousaRodrigues/dashboard-app) — Interface de painel com Next.js e integração de dados
 - [`organo`](https://github.com/DiegoSousaRodrigues/organo) — Projeto completo de times e colaboradores (Curso Alura)
 
 > A maioria dos meus projetos são voltados para estudos e testes de tecnologias modernas — gosto de experimentar, aprender e melhorar sempre!
